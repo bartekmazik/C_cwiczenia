@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main()
+int z1_5()
 {
     int i;
     int sum = 0;

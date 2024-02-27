@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main()
+int z1_6()
 {
     int score = 0;
     int opponentScore = 0;

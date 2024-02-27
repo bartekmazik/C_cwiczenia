@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main()
+int z1_1()
 {
     char firstName[30];
     printf("Enter your first name: \n");

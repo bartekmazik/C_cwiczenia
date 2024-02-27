@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main()
+int z1_2()
 {
     int grades[2][5] = { {1,2,3,4,5}, {2,3,4,5,6} };
     int i;
