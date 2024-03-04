@@ -12,4 +12,7 @@ add_executable(C_cwiczenia main.c
         z1_1.h
         z2_1.h
         z2_2.h
+        z2_3.h
+        z2_4.h
+        z2_5.h
 )

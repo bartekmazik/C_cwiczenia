@@ -6,6 +6,9 @@
 #include "z1_6.h"
 #include "z2_1.h"
 #include "z2_2.h"
+#include "z2_3.h"
+#include "z2_4.h"
+#include "z2_5.h"
 
 int main()
 {
@@ -16,7 +19,10 @@ int main()
     //z1_5();
     //z1_6();
     //z2_1();
-    z2_2();
+    //z2_2();
+    //z2_3();
+    //z2_4();
+    z2_5();
     return 0;
 }
 
