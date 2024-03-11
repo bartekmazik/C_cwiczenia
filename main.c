@@ -9,6 +9,8 @@
 #include "z2_3.h"
 #include "z2_4.h"
 #include "z2_5.h"
+#include "z3_1.h"
+#include "z3_2.h"
 
 int main()
 {
@@ -22,7 +24,9 @@ int main()
     //z2_2();
     //z2_3();
     //z2_4();
-    z2_5();
+    //z2_5();
+    //z3_1(3);
+    z3_2();
     return 0;
 }
 
