@@ -11,6 +11,10 @@
 #include "z2_5.h"
 #include "z3_1.h"
 #include "z3_2.h"
+#include "z4_1.h"
+#include "z4_2.h"
+#include "z4_3.h"
+
 
 int main()
 {
@@ -26,7 +30,10 @@ int main()
     //z2_4();
     //z2_5();
     //z3_1(3);
-    z3_2();
+    //z3_2();
+    //z4_1(4);
+    //z4_2();
+    z4_3();
     return 0;
 }
 
