@@ -49,11 +49,101 @@ cmake_ninja_workdir = /Users/bartek/CLionProjects/C_cwiczenia/cmake-build-debug/
 
 build cmake_object_order_depends_target_C_cwiczenia: phony || CMakeFiles/C_cwiczenia.dir
 
-build CMakeFiles/C_cwiczenia.dir/main.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/main.c || cmake_object_order_depends_target_C_cwiczenia
-  DEP_FILE = CMakeFiles/C_cwiczenia.dir/main.c.o.d
+build CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_2.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_1/z1_2.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_2.c.o.d
   FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
-  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_1
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_4.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_1/z1_4.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_4.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_1
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_3.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_1/z1_3.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_1
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_5.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_1/z1_5.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_5.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_1
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_6.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_1/z1_6.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_6.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_1
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_1.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_1/z1_1.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_1
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_1.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_2/z2_1.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_2
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_2.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_2/z2_2.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_2
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_3.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_2/z2_3.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_2
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_4.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_2/z2_4.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_4.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_2
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_5.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_2/z2_5.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_5.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_2
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_3/z3_1.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_3/z3_1.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_3/z3_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_3
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_3/z3_2.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_3/z3_2.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_3/z3_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_3
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_1.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_4/z4_1.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_4
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_2.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_4/z4_2.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_4
+
+build CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_3.c.o: C_COMPILER__C_cwiczenia_unscanned_Debug /Users/bartek/CLionProjects/C_cwiczenia/Zajecia_4/z4_3.c || cmake_object_order_depends_target_C_cwiczenia
+  DEP_FILE = CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_cwiczenia.dir/Zajecia_4
 
 
 # =============================================================================
@@ -63,7 +153,7 @@ build CMakeFiles/C_cwiczenia.dir/main.c.o: C_COMPILER__C_cwiczenia_unscanned_Deb
 #############################################
 # Link the executable C_cwiczenia
 
-build C_cwiczenia: C_EXECUTABLE_LINKER__C_cwiczenia_Debug CMakeFiles/C_cwiczenia.dir/main.c.o
+build C_cwiczenia: C_EXECUTABLE_LINKER__C_cwiczenia_Debug CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_2.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_4.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_3.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_5.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_6.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_1/z1_1.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_1.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_2.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_3.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_4.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_2/z2_5.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_3/z3_1.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_3/z3_2.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_1.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_2.c.o CMakeFiles/C_cwiczenia.dir/Zajecia_4/z4_3.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/C_cwiczenia.dir
   POST_BUILD = :
